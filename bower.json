@@ -1,0 +1,19 @@
+{
+  "name": "angular-event-scheduler",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "1.4",
+    "angular-route": "1.4",
+    "ui.bootstrap": "^2.5.6",
+    "angular-bootstrap": "^2.5.0",
+    "bootstrap": "^4.1.1",
+    "angular-ui-calendar": "^1.0.2",
+    "angular-animate": "1.4",
+    "angular-messages": "1.4",
+    "angularjs-datepicker": "^2.1.23",
+    "angular-bootstrap-colorpicker": "^3.0.32",
+    "lodash": "^4.17.10",
+    "font-awesome": "4.3",
+    "AngularJS-Toaster": "angularjs-toaster#^2.2.0"
+  }
+}
